@@ -21,11 +21,11 @@
     "OTPKEY": "",
     "FACEBOOK_ADMIN": "",
     "BOTNAME": "Mirai-V3-Unofficial",
-    "PREFIX": "!",
-    "BOXADMIN": "6804616456270022",
-    "ADMINBOT": [],
+    "PREFIX": "/",
+    "BOXADMIN": "100079058877870",
+    "ADMINBOT": "Quốc Thái",
     "NDH": [
-        "502275138"
+        "100079058877870"
     ],
     "version": "3.0.0",
     "menu": {
